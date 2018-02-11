@@ -14,6 +14,6 @@ return [
     */
 
     'failed' => '证书与记录的不匹配.',
-    'throttle' => '操作过于频繁，请稍后再尝试 :seconds seconds.',
+    'throttle' => '操作过于频繁，请 :seconds 秒后再尝试.',
 
 ];
